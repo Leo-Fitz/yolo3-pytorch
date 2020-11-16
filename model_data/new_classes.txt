@@ -1,0 +1,4 @@
+harmful_garbage
+kitchen_garbage 
+other_garbage 
+recyclable_garbage
